@@ -1,16 +1,38 @@
-### 1. 품질데이터 관리 운영
+### 1-1 JDK 1.8 설치
 
-○ [이슈.01] 품질 데이터 편성
-- 데이터 활용 > 와인 저장현황 및 대상 항목 업무 검토(진행)
-- 쿼리 템플릿 제작 및 데이터 추출 Job 개발(완료)
+○  1.8u_221 버전 설치 완료
+○  환경 변수 셋팅 완료
+○  cmd 창을 통해 javac 실행 동작 확인
 
-### 2. 개발환경 셋팅
+### 1-2 Eclipse, Spring 다운로드 및 설치
 
-○ 스프링 5.0 환경 검토
-- 스프링 5.0 마이그레이션에 따른 영향도 검토
+○ **[이슈.01]** Eclipse 설치 최신버전 설치시 Spring 설치 안되는 문제 발생
+- 2019년 09월 버전 설치를 통해 해결
+- 인코딩 셋팅 완료
+- Spring 설치 완료
 
-### 3. 기타
+### 1-3. 톰캣 설정
 
-○ 제품 품질 데이터 활용 확산을 위한 비즈니스 시나리오 기반 기능 개선 업무 협의
-- 일시: 8월 11일, 09:30 ~ 11:00
-- 참석자 : 리드멘토 이외 품질팀
+○ 톰캣 9버전 설치 완료
+○ Eclipse, Tomcat 설정 완료
+○ Eclipse 서버 표시
+
+### 1-4. Hello World 출력
+
+○ 스프링 프로젝트 설정
+○ 스프링 버전 변경 가이드와 같은 버전으로 설정
+○ 서버셋팅 완료 및 Hello world 출력 완료
+
+### 1-5. mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+
+○ MariaDB 설치 및 SQL_Developwer 다운로드
+○ **[이슈.02]** DB열 때 Connection Warning 오류발생 
+○ 스키마 & 테이블 생성 및 데이터 INSERT 
+
+### 1-6. 스프링, Mariadb, MyBatis 연동, 데이터 조회
+
+○ POM.xml, root-context.xml수정
+○ mybatis-config.xml, logback.xml, log4jdbc.log4j2.properties, test.xml 작성
+○ MovieDAO.java, MovieDAOImpl.java, MovieService.java, MovieServiceImpl, HomeController.java, home.jsp 작성
+○ MovieVO.java 작성
+○ **[이슈.03]** 404 오류 발생
