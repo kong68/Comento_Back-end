@@ -3,4 +3,8 @@
 - 1.8u_221 버전으로 설치하기 위해서 하단의 링크에서 설치 완
 https://www.oracle.com/kr/java/technologies/javase/javase8u211-later-archive-downloads.html
 
-- 환경 번수 변집 완
+- 환경 번수 변집 완료
+![환경변수](https://github.com/kong68/Comento_Back-end/assets/74444856/fb406ea6-7518-4185-a5a3-737ae4f84e07)
+
+- javac 실행 및 동작 확인
+![image](https://github.com/kong68/Comento_Back-end/assets/74444856/3d9a4181-4f6e-415e-8bc8-9624eb07edc0)
