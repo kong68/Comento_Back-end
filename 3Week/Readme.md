@@ -2,13 +2,13 @@
 
 - CODE: comento4/settingweb_boot
 
-### 3-1
+### 3-1 스프링부트로 개발 환경 설정하기
 <img width="200" alt="image" src="https://github.com/kong68/Comento_Back-end/assets/74444856/8cd95473-f224-4bce-ae21-0bdb433f9a0e">
 
-### 3-2
+### 3-2 통계(SW활용현황) API를 위한 DB, Table 생성
 <img width="152" alt="image" src="https://github.com/kong68/Comento_Back-end/assets/74444856/2b3fefd1-99a6-448e-a176-c07d1c392b3d">
 
-### 3-3
+### 3-3 스프링부트, Mybatis, mariadb 연동
 <img width="347" alt="image" src="https://github.com/kong68/Comento_Back-end/assets/74444856/d5478d8a-f635-4592-bc13-21389a2c88dd" >
 
 
